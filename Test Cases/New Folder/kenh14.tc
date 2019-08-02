@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>kenh14</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>versionId</key>
+            <value>49310291</value>
+         </entry>
+         <entry>
+            <key>name</key>
+            <value>kenh14</value>
+         </entry>
+         <entry>
+            <key>pid</key>
+            <value>TC-2</value>
+         </entry>
+         <entry>
+            <key>id</key>
+            <value>34198770</value>
+         </entry>
+         <entry>
+            <key>parentId</key>
+            <value>7353945</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>f7d1e4a7-f310-4008-8668-c5a36f986a62</testCaseGuid>
+</TestCaseEntity>
