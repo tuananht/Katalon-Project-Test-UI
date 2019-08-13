@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>vnexpress</name>
+   <name>Facebook</name>
    <tag></tag>
    <integratedEntity>
       <productName>qTest</productName>
       <properties>
          <entry>
-            <key>id</key>
-            <value>34198900</value>
+            <key>versionId</key>
+            <value>49310629</value>
          </entry>
          <entry>
             <key>name</key>
             <value>vnexpress</value>
          </entry>
          <entry>
-            <key>parentId</key>
-            <value>7353960</value>
-         </entry>
-         <entry>
             <key>pid</key>
             <value>TC-3</value>
          </entry>
          <entry>
-            <key>versionId</key>
-            <value>49310629</value>
+            <key>id</key>
+            <value>34198900</value>
+         </entry>
+         <entry>
+            <key>parentId</key>
+            <value>7353960</value>
          </entry>
       </properties>
       <type>TESTCASE</type>

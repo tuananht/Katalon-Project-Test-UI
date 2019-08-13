@@ -17,7 +17,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://kenh14.vn/')
 
-WebUI.navigateToUrl('http://quynhanhxauxi.yahoo')
+WebUI.click(findTestObject("Truong Quynh Anh"))
 
 WebUI.closeBrowser()
 

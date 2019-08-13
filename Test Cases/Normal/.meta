@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FolderEntity>
    <description>folder</description>
-   <name>New Folder1</name>
+   <name>Normal</name>
    <tag></tag>
    <integratedEntity>
       <productName>qTest</productName>
       <properties>
          <entry>
-            <key>id</key>
-            <value>7353960</value>
-         </entry>
-         <entry>
             <key>name</key>
             <value>New Folder1</value>
+         </entry>
+         <entry>
+            <key>id</key>
+            <value>7353960</value>
          </entry>
          <entry>
             <key>parentId</key>

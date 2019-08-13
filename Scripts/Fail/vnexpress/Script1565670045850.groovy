@@ -17,5 +17,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://vnexpress.net/')
 
+WebUI.click(findTestObject('Find HomePage'))
+
 WebUI.closeBrowser()
 

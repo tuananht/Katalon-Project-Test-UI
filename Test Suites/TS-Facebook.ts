@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Pro</name>
+   <name>TS-Facebook</name>
    <tag></tag>
    <integratedEntity>
       <productName>qTest</productName>
@@ -16,15 +16,15 @@
    </integratedEntity>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <numberOfRerun>1</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
-   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
    <testSuiteGuid>99862d95-8bec-4e22-a52d-c52392c996bb</testSuiteGuid>
    <testCaseLink>
       <guid>e41b4680-88ea-4abd-b83c-bf62d20037e1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/New Folder1/vnexpress</testCaseId>
+      <testCaseId>Test Cases/Normal/Facebook</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
