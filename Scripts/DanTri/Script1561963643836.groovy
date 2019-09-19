@@ -18,7 +18,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://dantri.com.vn/')
 
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Object Repository/Page_Tin tc Vit Nam v quc t nng nhanh cp nht 24h  Bo Dn tr/span_Sc mnh s'))
+
+WS.sendRequest(findTestObject('Object Repository/Abc'))
 
 WebUI.closeBrowser()
 
